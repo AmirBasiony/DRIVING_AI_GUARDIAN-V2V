@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "string": "cpp",
+        "thread_3.h": "c"
+    }
+}

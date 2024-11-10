@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "i2c.h": "c",
-        "hal_mpu_6050.h": "c",
-        "i2c-dev.h": "c"
-    }
-}

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "msgipc.h": "c",
+        "mqtt.h": "c"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "ioctl.h": "c",
+        "stat.h": "c",
+        "positioncalculations.h": "c",
+        "utils.h": "c",
+        "math.h": "c",
+        "i2c.h": "c",
+        "hal_mpu_6050.h": "c",
+        "deamon_1.h": "c",
+        "spi.h": "c",
+        "spidev.h": "c",
+        "suddenbrake.h": "c",
+        "gps.h": "c",
+        "deamon_3.h": "c",
+        "intersection.h": "c",
+        "actions.h": "c",
+        "deamon_2.h": "c",
+        "python.h": "c",
+        "msgipc.h": "c",
+        "thread_3.h": "c"
+    }
+}
